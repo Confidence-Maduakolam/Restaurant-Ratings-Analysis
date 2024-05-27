@@ -2,8 +2,16 @@
 
 ![mexico wallpaper](https://github.com/confilovydovy/Restaurant-Ratings-Analysis/assets/7013375/652b194f-8f25-4007-b933-d38393b720e1)
 
+### Table of contents
 
-### ABOUT PROJECT 
+- [About Project](#about-project)
+- [Data Cleaning and Transformation](#data-cleaning-and-transformation)
+- [Data Modelling](#data-modelling)
+- [Data Visualisation](#data-visualisation)
+- [Full DashBoad](#full-dashboard)
+- [Recommendations](#recommedations)
+  
+### About Project 
 ##### Restaurant Rating:
 
 This data set is called the restaurant rating dataset which contains information about restaurants in Mexico. A customer survey was carried out in this city in 2012 to collate information about each restaurant, their cuisines, information about their consumers and the preferences of the consumers. There are other additional information you will find in this dataset when exploring it. You are contracted as a Data Analyst to analyze and draw out meaningful insight from this dataset which would aid business entrepreneurs and investors in making more informed decisions. Using skills learnt from the data Bootcamp, To analyze the dataset and provide answers to the questions listed below. 
@@ -13,7 +21,7 @@ This data set is called the restaurant rating dataset which contains information
 3.   Are there any demand & supply gaps that you can exploit in the market?
 4.   If you were to invest in a restaurant, which characteristics would you be looking for?
 
-### Data Cleaning ,Transformation
+### Data Cleaning/Transformation
 
 After examining and extracting the data from the 'Restaurant_Ratings.zip' file, which contains five CSV files (Restaurants, Restaurant cuisines, Ratings, Consumers, and Consumers preference), I uploaded the data into Power Query Editor for cleaning and transformation. In this process, I replaced null values with 0 and utilized the first row as headers for certain datasets. After the data cleaning, I observed that some datasets share one or two connections, notably the consumer_id and restaurant_id, which served as the primary key for merging all the datasets as seen below.
 
