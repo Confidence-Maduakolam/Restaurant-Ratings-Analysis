@@ -1,7 +1,6 @@
 # Mexico Restaurant-Ratings-Analysis
 
 ### ABOUT PROJECT 
-
 ##### Restaurant Rating:
 
 This data set is called the restaurant rating dataset which contains information about restaurants in Mexico. A customer survey was carried out in this city in 2012 to collate information about each restaurant, their cuisines, information about their consumers and the preferences of the consumers. There are other additional information you will find in this dataset when exploring it. You are contracted as a Data Analyst to analyze and draw out meaningful insight from this dataset which would aid business entrepreneurs and investors in making more informed decisions. Using skills learnt from the data Bootcamp, To analyze the dataset and provide answers to the questions listed below. 
@@ -16,14 +15,17 @@ This data set is called the restaurant rating dataset which contains information
 
 After examining and extracting the data from the 'Restaurant_Ratings.zip' file, which contains five CSV files (Restaurants, Restaurant cuisines, Ratings, Consumers, and Consumers preference), I uploaded the data into Power Query Editor for cleaning and transformation. In this process, I replaced null values with 0 and utilized the first row as headers for certain datasets. After the data cleaning, I observed that some datasets share one or two connections, notably the consumer_id and restaurant_id, which served as the primary key for merging all the datasets as seen below.
 
-
+![merge 1](https://github.com/confilovydovy/Restaurant-Ratings-Analysis/assets/7013375/06da7489-5503-4314-9a60-c4fa9fe61d15)|![merge 2](https://github.com/confilovydovy/Restaurant-Ratings-Analysis/assets/7013375/288d7b6b-dc15-4a9d-bf84-d07e0c6417a1)|![merge 3](https://github.com/confilovydovy/Restaurant-Ratings-Analysis/assets/7013375/ce6ea31e-309b-471f-94e9-1ad433073e18)|![merge 4](https://github.com/confilovydovy/Restaurant-Ratings-Analysis/assets/7013375/99c660b0-301a-4b39-b868-7829c45c9de8)
 
 ### Data Modelling
-
 After merging the data the result is as shown below, showing the connections for each table
+
+![res model view](https://github.com/confilovydovy/Restaurant-Ratings-Analysis/assets/7013375/71ae4e43-98e5-4d1f-b729-53dba3c350a9)
+
 
 ### Data Visualisation
 
+![Res 1](https://github.com/confilovydovy/Restaurant-Ratings-Analysis/assets/7013375/802ded6c-2cdc-4eb5-97df-3f8acd19c8b4)
 
 
 The above dashboard is used to answer the Question 1 and 2 which are:
@@ -42,6 +44,7 @@ Service Rating by Smoking Allowed: Most of the service ratings are from places w
 
 Average Overall Rating by Alcohol Service: The majority of ratings come from restaurants that offer "Full Bar" (34.29%) followed by those with "Wine and Beer"(33.8%). Restaurants with No alcohol service have the least ratings (31.9%).
 
+![Res 2](https://github.com/confilovydovy/Restaurant-Ratings-Analysis/assets/7013375/22d0f613-c531-4817-825f-e974228d43f5)
 
 
 The above dashboard is used to answer the Question 3 and 4 which are:
@@ -71,6 +74,11 @@ Characteristics to Consider:
 •Location: Choose locations in cities with higher overall ratings to capitalize on existing positive perceptions of dining experiences in those areas.
 
 By focusing on these characteristics, an investment in a restaurant is more likely to succeed, tapping into established market preferences while offering distinctive qualities that can set the restaurant apart from competitors.
+
+### Full DashBoard
+
+![Res 3](https://github.com/confilovydovy/Restaurant-Ratings-Analysis/assets/7013375/e9d1aead-2313-4f01-bec3-19f0e4f8c9ac)
+
 
 ### Recommendations
 
