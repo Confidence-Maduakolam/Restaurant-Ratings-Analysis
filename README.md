@@ -43,12 +43,14 @@ After merging the data the result is as shown below, showing the connections for
 The above dashboard is used to answer the Question 1 and 2 which are:
 
 1. What can you learn from the highest rated restaurants? Do consumer preferences have an effect on ratings?
+   
 
 Overall Ratings by Restaurant: The highest rated restaurant is "Tortas Locas Hipocampo" with a rating of 48, followed by "Puesto De Tacos" with 41, and "Cafeteria Y Restaurante El Pacifico" with 33. This suggests that "Tortas Locas Hipocampo" is performing exceptionally well in terms of customer satisfaction.
 
 Consumer ID by Preferred Cuisine: The most preferred cuisine is Mexican, with 97 consumers preferring it, followed by American (11 consumers), and then Cafeteria and Pizzeria (9 each). This indicates a strong preference for local cuisine among the consumers, which might be influencing the high ratings for restaurants that offer Mexican food, like "Tortas Locas Hipocampo."
 
 2. What are the consumer demographics? Does this indicate a bias in the data sample?
+   
    
 Restaurant Food Ratings by Age, Occupation & Marital Status: The table shows a variety of consumers, mostly younger (ages 21–25), students, and single. This might indicate a bias towards younger, single individuals in the data sample, which could affect the generalizability of the results to other demographic groups.
 
@@ -63,6 +65,7 @@ The above dashboard is used to answer the Question 3 and 4 which are:
 
 3. Are there any demand & supply gaps that you can exploit in the market?
    
+   
 Service Rating by Alcohol Service: As shown on the dashboard (63.19%) of restaurants offer no alcoholic services, which receive a higher service rating. This suggests a strong market preference for restaurants with no alcohol service options followed by 29.46% restaurant that of wine and beer services.
 
 Count of Service Rating by Smoking Allowed: Most restaurants (74.16%) do not allow smoking, aligning with a general trend towards non-smoking environments. This could indicate a preference or regulatory environment favoring non-smoking establishments.
@@ -72,6 +75,7 @@ Preferred Cuisine by Budget: Mexican cuisine shows a high preference across all 
 Overall Rating by Name and Price: Restaurants like "Tortas Locas Hipocampo" and "Puesto de Tacos" have high ratings and are likely priced low to medium. This suggests a gap in the market for high-quality, affordable dining options.
 
 4. If you were to invest in a restaurant, which characteristics would you be looking for?
+   
    
 Characteristics to Consider:
 
