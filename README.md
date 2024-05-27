@@ -1,5 +1,8 @@
 # Mexico Restaurant-Ratings-Analysis
 
+![mexico wallpaper](https://github.com/confilovydovy/Restaurant-Ratings-Analysis/assets/7013375/652b194f-8f25-4007-b933-d38393b720e1)
+
+
 ### ABOUT PROJECT 
 ##### Restaurant Rating:
 
