@@ -18,7 +18,9 @@ This data set is called the restaurant rating dataset which contains information
 
 After examining and extracting the data from the 'Restaurant_Ratings.zip' file, which contains five CSV files (Restaurants, Restaurant cuisines, Ratings, Consumers, and Consumers preference), I uploaded the data into Power Query Editor for cleaning and transformation. In this process, I replaced null values with 0 and utilized the first row as headers for certain datasets. After the data cleaning, I observed that some datasets share one or two connections, notably the consumer_id and restaurant_id, which served as the primary key for merging all the datasets as seen below.
 
-![merge 1](https://github.com/confilovydovy/Restaurant-Ratings-Analysis/assets/7013375/06da7489-5503-4314-9a60-c4fa9fe61d15)|![merge 2](https://github.com/confilovydovy/Restaurant-Ratings-Analysis/assets/7013375/288d7b6b-dc15-4a9d-bf84-d07e0c6417a1)|![merge 3](https://github.com/confilovydovy/Restaurant-Ratings-Analysis/assets/7013375/ce6ea31e-309b-471f-94e9-1ad433073e18)|![merge 4](https://github.com/confilovydovy/Restaurant-Ratings-Analysis/assets/7013375/99c660b0-301a-4b39-b868-7829c45c9de8)
+![merge 1](https://github.com/confilovydovy/Restaurant-Ratings-Analysis/assets/7013375/06da7489-5503-4314-9a60-c4fa9fe61d15)|![merge 2](https://github.com/confilovydovy/Restaurant-Ratings-Analysis/assets/7013375/288d7b6b-dc15-4a9d-bf84-d07e0c6417a1)
+
+![merge 3](https://github.com/confilovydovy/Restaurant-Ratings-Analysis/assets/7013375/ce6ea31e-309b-471f-94e9-1ad433073e18)|![merge 4](https://github.com/confilovydovy/Restaurant-Ratings-Analysis/assets/7013375/99c660b0-301a-4b39-b868-7829c45c9de8)
 
 ### Data Modelling
 After merging the data the result is as shown below, showing the connections for each table
